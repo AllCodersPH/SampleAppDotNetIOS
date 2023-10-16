@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/amdomaoan/Projects/SampleAppDotNetIOS/SampleAppDotNetIOS/bin/Debug/net7.0-ios/iossimulator-x64/SampleAppDotNetIOS.app/libSystem.Native.dylib
